@@ -3,7 +3,7 @@
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
-// • Allah SWT
+// • God SWT
 // • Nurutomo
 // • Bochilgaming
 // • Rominaru
@@ -53,17 +53,17 @@ global.sdc = " "
 global.snh = 'https://xhitori.my.id'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082125276167'
+global.pdana = '08107909262'
 global.povo = '_'
 global.pgopay = '_'
-global.ppulsa = '082125276167'
-global.ppulsa2 = '082125276167'
+global.ppulsa = '08107909262'
+global.ppulsa2 = '08107909262'
 global.psaweria = 'https://saweria.co/nvkenn'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281323870860'
 global.nomorown = '6282125276167'
-global.namebot = 'XHITORI'
+global.namebot = '光沢のある'
 global.nameown = 'V4LL'
 
 
@@ -71,7 +71,7 @@ global.nameown = 'V4LL'
 global.owner = [
   ['6282125276167', 'V4LL', true]
   // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+] // 08107909262, lucent
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
@@ -114,7 +114,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 X H 1 T O R I シ」' //Main Watermark
-global.wm2 = '𝐗𝐇𝐈𝐓𝐎𝐑𝐈'
+global.wm2 = '光沢のある'
 global.wm3 = '❖ ʜɪᴛᴏʀɪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
